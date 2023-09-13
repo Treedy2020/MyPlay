@@ -1,1 +1,3 @@
+build-essential
 poppler-utils
+pkg-config
