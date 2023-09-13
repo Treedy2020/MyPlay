@@ -1,5 +1,2 @@
-fitz
-PyPDF
-pymupdf
 pymupdf
 frontend==0.0.3
