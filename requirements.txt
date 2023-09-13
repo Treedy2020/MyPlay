@@ -2,4 +2,4 @@ fitz
 PyPDF
 pymupdf
 PyPDF
-frontend=0.0.3
+frontend==0.0.3
