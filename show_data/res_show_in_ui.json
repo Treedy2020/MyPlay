@@ -1,0 +1,537 @@
+{
+    "0": [
+        0,
+        0,
+        "1. The copyright year is different: 2021 in page_content_1 and 2019 in page_content_2.\n2. The amendment version mentioned is different: Amend. 5 in page_content_1 and Amend. 4 in page_content_2.\n3. The date is different: July 2, 2021 in page_content_1 and June 24, 2019 in page_content_2.\n4. The regulation status is different: ECE 100-03 in page_content_1 and ECE 100-02 in page_content_2.\n5. Page_content_1 includes the \"03 series of amendments to the Regulation Date of Entry into Force: 09.06.21\" which is not present in page_content_2.\n6. The generation time of the two documents is different: 2:40 PM in page_content_1 and 2:38 PM in page_content_2."
+    ],
+    "1": [
+        1,
+        1,
+        "1. The copyright year is different: 2021 in page_content_1 and 2019 in page_content_2.\n2. The document reference number differs: E/ECE/324 ) Rev.2/Add.99/Rev.2/Amend. 5 in page_content_1 and E/ECE/324 ) Rev.2/Add.99/Rev.2/Amend. 4 in page_content_2.\n3. The dates of the documents are different: July 2, 2021 in page_content_1 and June 24, 2019 in page_content_2.\n4. The regulation number is different: UN Regulation No. 100-03 in page_content_1 and Regulation No. 100-02 in page_content_2.\n5. Page_content_1 includes the 03 series of amendments to the Regulation – Date of entry into force: June 9, 2021, which is not present in page_content_2."
+    ],
+    "2": [
+        6,
+        5,
+        "1. Different versions: 2021 vs 2019. \n2. Different Regulation No: 100-03 vs 100-02.\n3. Page number: 6 vs 5.\n4. Different definitions and sequence of terms such as \"Exposed conductive part\", \"External electric power supply\", \"Fire\", \"Flammable electrolyte\", \"High Voltage\", \"High voltage bus\", \"Indirect contact\", \"Live parts\".\n5. Terms \"Electrical circuit\", \"Electric energy conversion system\", \"Electric power train\", \"Electronic converter\", \"Enclosure\", \"Explosion\" are only present in page_content_2.\n6. Terms \"Manufacturer\", \"Non-aqueous electrolyte\", \"Normal operating conditions\", \"Luggage compartment\" are only present in page_content_1.\n7. The explanations under \"High voltage bus\" are different."
+    ],
+    "3": [
+        8,
+        7,
+        "The key differences between the two pages are:\n\n- They are from different versions of the document, one from 2021 (Regulation No. 100-03) and the other from 2019 (Regulation No. 100-02).\n- Page_content_1 contains definitions for \"Tested-Device\", \"Thermal event\", \"Thermal runaway\", \"Thermal propagation\", \"Vehicle connector\", \"Vehicle inlet\", and \"Venting\" which are not present in page_content_2.\n- Page_content_2 contains the definition for \"Chassis connected to the electrical circuit\" and an application for approval section, which are not present in page_content_1.\n- The page numbers are different, with page_content_1 being page 8 and page_content_2 being page 7.\n- The definition numbering is different, with page_content_1 starting from 2.44 and page_content_2 starting from 2.36.\n- The copyright year is different, with page_content_1 being 2021 and page_content_2 being 2019."
+    ],
+    "4": [
+        7,
+        6,
+        "1. The versions and dates of the documents are different. The first one is \"UN Regulation No. 100-03 Jul/2021\" while the second one is \"Regulation No. 100-02 Jul/2019\".\n2. The term \"Luggage compartment\" is included only in the second document.\n3. The definition of \"Manufacturer\" is only in the second document.\n4. The phrase \"Protection Degree IPXXB\" and \"Protection Degree IPXXD\" is replaced by \"Protection degree\" in the second document.\n5. The term \"REESS subsystem\" in the first document is replaced by \"Subsystem\" in the second document.\n6. The definition of \"Solid insulator\" in the second document includes more details.\n7. The term \"Specific voltage condition\" and its note is only in the first document.\n8. The term \"Tested-device\" is only in the second document.\n9. The order of the definitions varies between the two documents."
+    ],
+    "5": [
+        2,
+        2,
+        "The key differences between the two contents are:\n1. The version of the document: \"UN Regulation No. 100-03\" in the first content and \"Regulation No. 100-02\" in the second.\n2. The copyright year: \"© InterRegs Ltd 2021\" and \"© InterRegs Ltd 2019\".\n3. The description of \"Part I\" under REGULATION: \"Requirements of a Vehicle with Regard to Specific Requirements for the Electric Power Train\" in the first and \"Requirements of a Vehicle with Regard to its Electrical Safety\" in the second.\n4. The second content has additional annexes: \"Annex 3 - Protection against direct contacts of parts under voltage\" and \"Annex 4A - Isolation resistance measurement method for vehicle based tests\", \"Annex 4B - Isolation resistance measurements method for component based tests of a REESS\".\n5. The first content contains \"Appendix 1 - Part 1 – Essential characteristics of road vehicles or systems\" & \"Appendix 2 – Essential characteristics of REESS\" that aren't in the second content."
+    ],
+    "6": [
+        9,
+        8,
+        "1. The versions of the documents are different. Page_content_1 is from 2021 and titled \"UN Regulation No. 100-03\", while page_content_2 is from 2019 and titled \"Regulation No. 100-02\".\n2. The pages of the documents are different. Page_content_1 is page 9, while page_content_2 is page 8.\n3. In section 3.2.1, page_content_2 mentions \"a type of REESS or separate technical unit\" while page_content_1 only mentions \"a type of REESS\". \n4. Section 3.2.2.1 in page_content_2 includes the phrase \"or separate technical unit\" which is missing in the same section of page_content_1. \n5. Page_content_2 includes an additional section 4 titled \"APPROVAL\", which is absent in page_content_1."
+    ],
+    "7": [
+        3,
+        3,
+        "The key differences between the two pages are:\n\n1. The copyright year: 2021 in the first and 2019 in the second.\n2. The regulation number: UN Regulation No. 100-03 in the first and Regulation No. 100-02 in the second.\n3. The version dates: Jul/2021 in the first and Jul/2019 in the second.\n4. The content of the Annexes and Appendices are different between the two versions.\n5. The sequence and numbering of the Annexes and Appendices are also different between the two versions. For example, 'Vibration test' is under Annex 9A in the first version and under Annex 8A in the second version.\n6. The generation time of the documents: 2:40 PM in the first and 2:38 PM in the second."
+    ],
+    "8": [
+        5,
+        5,
+        "1. Version 2021 includes definitions for \"Cell\", \"Conductive connection\", \"Connector\", \"Coupling system for charging the REESS\", \"C Rate\", \"Direct contact\", \"Electrical chassis\", \"Electrical protection barrier\", \"Electrolyte leakage\", \"Enclosure\" and \"Explosion\". These definitions are not present in the 2019 version.\n2. Version 2019 includes definitions for \"Exposed conductive part\", \"External electric power supply\", \"High Voltage\", \"Fire\", \"Flammable electrolyte\", \"High voltage bus\", \"Indirect contact\" and \"Live parts\". These definitions are not present in the 2021 version.\n3. The definition of \"Enclosure\" differs. Version 2021 defines it as the part providing protection against any direct contact, while 2019 version adds that it provides protection against direct contact from any direction of access.\n4. The order of definitions is different between two versions. For example, \"Electric energy conversion system\" is defined at point 2.11 in 2021 version while it is at 2.10 in 2019 version.\n5. The 2021 version is labelled as \"UN Regulation No. 100-03\", while the 2019 version is labelled as \"Regulation No. 100-02\"."
+    ],
+    "9": [
+        0,
+        0,
+        "The key differences are:\n1. The year of copyright in the header: 2021 vs 2019.\n2. The amendment number: Amend. 5 vs Amend. 4.\n3. The date: July 2, 2021 vs June 24, 2019.\n4. The United Nations regulation number: ECE 100-03 vs ECE 100-02.\n5. The page_content_1 includes \"03 series of amendments to the Regulation Date of Entry into Force: 09.06.21\" which is absent in page_content_2.\n6. The time of generation: 2:40 PM vs 2:38 PM."
+    ],
+    "10": [
+        4,
+        4,
+        "1. The versions of the documents are different: \"UN Regulation No. 100-03 Jul/2021\" vs \"Regulation No. 100-02 Jul/2019\".\n2. In the scope section, the 2021 version specifies vehicles are \"equipped with electric power train\", the 2019 version mentions vehicles are \"equipped with one or more traction motor(s) operated by electric power\".\n3. The 2021 version excludes \"high voltage components and systems which are not galvanically connected to the high voltage bus of the electric power train\" from the scope, which is not the case in the 2019 version.\n4. Definitions section has different entries for each version. For example, \"Aqueous electrolyte\", \"Automatic disconnect\", \"Breakout harness\" only appear in 2021 version, while \"Barrier\", \"Cell\", \"Conductive connection\", \"Coupling system for charging the Rechargeable Electrical Energy Storage System (REESS)\", \"C Rate\" of \"n C\", \"Direct contact\", \"Electrical chassis\" are only in 2019 version."
+    ],
+    "11": [
+        14,
+        12,
+        "Key differences:\n\n1. The version of the document is different. The first one is version 100-03, Jul/2021 and the second one is version 100-02, Jul/2019.\n\n2. The first document includes details about the \"Approval of Vehicles with Electric Power Train\" and specifically discusses the device for galvanical connection and isolation resistance. The second document, while discussing the same topic, also includes a section about \"Fuel Cell Vehicles\" and \"Isolation Resistance Requirement for the Coupling System for Charging the REESS\", which are not present in the first document.\n\n3. The terminology used in the documents differs slightly. For example, the first document uses \"solid insulators, electrical protection barriers\" while the second document uses \"solid insulators, barriers\".\n\n4. In the first document, the measurement of isolation resistance is conducted according to \"Annex 4A\" and \"Annex 5A\", while the second document only mentions \"Annex 4A\"."
+    ],
+    "12": [
+        10,
+        9,
+        "1. The version and title of the regulations are different. In page_content_1, it is \"UN Regulation No. 100-03\" while in page_content_2, it is \"Regulation No. 100-02\".\n2. The copyright year is 2021 in page_content_1 and 2019 in page_content_2.\n3. The page numbers are different. Page_content_1 is on page 10, while page_content_2 is on page 9.\n4. In page_content_1, only vehicles and REESS are mentioned for approval. In page_content_2, \"separate technical unit\" is added.\n5. Page_content_1 contains a section \"4. APPROVAL\" which is missing in page_content_2.\n6. Page_content_2 contains a section \"5. PART I: REQUIREMENTS OF A VEHICLE WITH REGARD TO ITS ELECTRICAL SAFETY\" which is missing in page_content_1.\n7. In item 4.6.2, page_content_1 only mentions REESS, while page_content_2 mentions \"REESS or separate technical unit approved as a REESS\"."
+    ],
+    "13": [
+        16,
+        13,
+        "1. The documents are different versions of the same topic, with one being the 2021 version (Regulation No. 100-03) and the other being the 2019 version (Regulation No. 100-02).\n2. In page_content_1, the description for the installation of a REESS is mentioned to be in \"Annex 1, Appendix 2 to this Regulation\". In page_content_2, it's described as in \"Part 2 of Annex 6 to this Regulation\".\n3. In page_content_1, there's an additional section \"5.2.3. Warning in the Event of Failure in REESS\" and \"5.2.4. Warning in the Event of  Low Energy Content of REESS\" which are not present in page_content_2.\n4. Page_content_2 includes an extra section \"5.3. Functional Safety\" which discusses the signals and conditions of the vehicle in \"active driving possible mode\". This section is not present in page_content_1.\n5. Page_content_2 also includes a section \"5.4. Determination of Hydrogen Emissions\" which specifies the test for hydrogen emissions. This section is not included in page_content_1.\n6. The wording in 5.2.1.2 is slightly different, in page_content_1 it mentions \"including related vehicle components, systems and structure as applicable\" while in page_content_2 it only states \"The REESS shall comply...\""
+    ],
+    "14": [
+        15,
+        12,
+        "1. The documents are from different years, 2021 and 2019 respectively.\n2. The regulation number is different, \"UN Regulation No. 100-03\" vs \"Regulation No. 100-02\".\n3. Page numbers are different (15 vs 12).\n4. In the 2021 version, for Fuel Cell Vehicles, it mentions that \"DC high voltage buses shall have an on-board isolation resistance monitoring system\". In the 2019 version, it says that if the minimum isolation resistance cannot be maintained, protection shall be achieved by any of the following, which includes an onboard isolation resistance monitoring system.\n5. The 2019 version includes a section \"5.1.3.2. Electric Power Train Consisting of Combined dc- and ac -Buses\" which is not present in the 2021 version.\n6. The requirements for the isolation resistance between the high voltage bus and the electrical chassis for the vehicle inlet intended to be conductively connected to the grounded external ac power supply vary between the two versions. The 2021 version requires it to comply with the requirements of Paragraph 5.1.3.1 when the conductive connection is disconnected, while the 2019 version specifies it to be at least 1MΩ when the charger coupler is disconnected.\n7. In the 2019 version, the isolation resistance can be demonstrated by calculation, measurement, or a combination of both. This is not mentioned in the 2021 version.\n8. The paragraphs about the protection against water effects are different between the two versions, with the 2021 version going into more detail about the requirements and options."
+    ],
+    "15": [
+        13,
+        11,
+        "1. The version of the documents are different; \"UN Regulation No. 100-03 Jul/2021\" in page_content_1, and \"Regulation No. 100-02 Jul/2019\" in page_content_2.\n2. The documents have different sections: page_content_1 does not have the section \"5.1.3. Isolation Resistance\" that exists in page_content_2.\n3. page_content_1 mentions \"electrical protection barriers\", while page_content_2 refers to these as \"barriers or enclosures\".\n4. page_content_2 includes a requirement for a device to enable the galvanical connection of the electrical chassis to the earth ground in vehicles intended to be connected to the grounded external electric power supply, which is not present in page_content_1.\n5. The resistance measurement requirements in page_content_1 are more detailed than in page_content_2. It includes a specific resistance between any two simultaneously reachable exposed conductive parts of the electrical protection barriers that are less than 2.5m from each other. \n6. page_content_2 includes a specific requirement for isolation resistance measurement method for vehicle-based tests which is not present in page_content_1.\n7. page_content_2 includes a note on compliance demonstration using the connector specified by the car manufacturer or by analysis, missing in page_content_1."
+    ],
+    "16": [
+        18,
+        14,
+        "1. The documents are from different versions and years (2019 vs 2021).\n2. In 5.4.4, the 2019 version mentions that during a charge by a faulty charger, hydrogen emissions should be below 42g and the charger should limit the possible failure to 30 minutes. This is not present in the 2021 version.\n3. The reference to Annex in 5.4.10 and 6.1 is different (Annex 7 vs Annex 8 and Annex 8 vs Annex 9 respectively).\n4. In 6.2.1, the Annex referenced is different (Annex 8A vs Annex 9A).\n5. In 6.2.2.1, venting for REESS other than open-type traction battery is mentioned in the 2021 version, but not in the 2019 version.\n6. The method of checking for electrolyte leakage is elaborated in the 2021 version.\n7. In 6.2.2.2, the Annex referenced is different (Annex 4B vs Annex 5B)."
+    ],
+    "17": [
+        17,
+        14,
+        "The key differences are:\n\n1. The documents are from different years (2021 vs 2019) and different regulation numbers (100-03 vs 100-02).\n\n2. Page_content_2 has additional sections 5.4.6 to 5.4.10, and a whole new part, PART II: REQUIREMENTS OF A RECHARGEABLE ELECTRICAL ENERGY STORAGE SYSTEM (REESS) WITH REGARD TO ITS SAFETY, which is not present in page_content_1.\n\n3. The conditions given in Annex for a charge carried out by a charger presenting a failure are different (Annex 8 in page_content_1 vs Annex 7 in page_content_2)."
+    ],
+    "18": [
+        11,
+        10,
+        "The key differences between the two page contents are:\n\n1. The year of copyright and version of the regulation: 2021 and 100-03 in the first document, 2019 and 100-02 in the second document.\n2. The second document includes additional requirements for REESS type vehicles, and details on protection degrees IPXXD and IPXXB.\n3. The first document includes specific provisions for vehicles of Categories N2, N3, M2, and M3, and more detailed explanation of the requirements for connectors.\n4. The second document includes a section on marking of High Voltage Equipment which is not present in the first document."
+    ],
+    "19": [
+        19,
+        15,
+        "1. Different version and year of the document: \"UN Regulation No. 100-03 Jul/2021\" vs \"Regulation No. 100-02 Jul/2019\".\n2. Different Annex for Thermal Shock and Cycling test: \"Annex 9B\" vs \"Annex 8B\".\n3. Different Acceptance Criteria for Thermal Shock and Cycling test: \"Venting (for REESS other than open-type traction battery)\" is only in the 2021 version.\n4. Different Annex for resistance measurement after test: \"Annex 5 B\" vs \"Annex 4B\".\n5. Different regulations for vehicle based test: \"UN Regulation No. 137, Annex 3\" is only in the 2021 version while \"Regulation No. 12, Annex 3\" is only in the 2019 version.\n6. \"Component Based Test\" section present only in the 2019 version."
+    ],
+    "20": [
+        12,
+        10,
+        "1. The versions of the document are different: \"UN Regulation No. 100-03 Jul/2021\" vs \"Regulation No. 100-02 Jul/2019\".\n2. In page_content_1, the high voltage live parts protection is detailed for various compartments and situations, whereas in page_content_2, it discusses protection against direct contact with live parts.\n3. The conditions under which connectors can be separated without tools are elaborated in page_content_2, whereas this specific detail is not mentioned in page_content_1.\n4. The marking symbol in page_content_1 is shown in Figure 2, whereas in page_content_2 it is shown in Figure 1. The requirement for the symbol in page_content_1 also applies to a REESS which is part of a galvanically connected circuit where the specific voltage condition is not fulfilled, this detail is not present in page_content_2."
+    ],
+    "21": [
+        20,
+        19,
+        "1. The document versions are different: 2021 version (Regulation No. 100-03) vs 2019 version (Regulation No. 100-02).\n2. The 2021 version has a detailed explanation about Electrolyte leakage test for aqueous and non-aqueous electrolyte REESS, while 2019 version only addresses general electrolyte spillage.\n3. In the 2021 version, the electrolyte leakage is tested for a period until 60 minutes after the impact, whereas in the 2019 version, this period is 30 minutes.\n4. The 2021 version includes a condition about REESS remaining attached to the vehicle after the vehicle based test and component based test. No such condition is mentioned in the 2019 version.\n5. The 2019 version includes a section on Fire Resistance (section 6.5) which is not present in the 2021 version."
+    ],
+    "22": [
+        28,
+        13,
+        "The key differences between the two pages are:\n\n1. The documents are different versions - \"UN Regulation No. 100-03 Jul/2021\" in page_content_1 and \"Regulation No. 100-02 Jul/2019\" in page_content_2.\n\n2. page_content_1 discusses management of gases emitted from REESS, warning in the event of operational failure and thermal event within the REESS, while page_content_2 focuses on REESS, accumulation of gas, functional safety, and determination of hydrogen emissions.\n\n3. Different paragraph numbers and contents are present in both documents. For example, Paragraph 6.12 in page_content_1 deals with management of gases from REESS, but Paragraph 5.2 in page_content_2 discusses REESS.\n\n4. The documents were generated by the same user but at different times."
+    ],
+    "23": [
+        29,
+        19,
+        "【No】"
+    ],
+    "24": [
+        24,
+        19,
+        "1. The versions of the documents are different: the first one is \"UN Regulation No. 100-03, Jul/2021, Page 24\" while the second one is \"Regulation No. 100-02, Jul/2019, Page 19\".\n2. In \"6.5.1. Vehicle Based Test\", the first document mentions \"Annex 9E Paragraph 3.2.1.\" while the second one refers to \"Annex 8E Paragraph 3.2.1.\".\n3. The second document contains an additional section \"6.4.2.3. Acceptance Criteria\" which is not present in the first document."
+    ],
+    "25": [
+        22,
+        18,
+        "1. The documents are different versions, one from 2021 and the other from 2019.\n2. The 2021 document is titled \"UN Regulation No. 100-03\" while the 2019 document is titled \"Regulation No. 100-02\".\n3. The 2021 document refers to \"Annex 9D\" and \"Paragraph 3.2.1. of Annex 9D\" while the 2019 document refers to \"Annex 8D\" and \"Paragraph 3.2.1. of Annex 8D\".\n4. In the 2021 document, the mounting restrictions are documented in \"Annex 1 - Appendix 2\" while in the 2019 document, they are documented in \"Annex 6 - Part 2\".\n5. The 2021 document refers to \"UN Regulations No s. 94 or 137\" while the 2019 document refers to \"Regulations Nos. 12 or 94\"."
+    ],
+    "26": [
+        23,
+        19,
+        "1. The regulation number and date of issue are different: \"Regulation No. 100-03 Jul/2021\" versus \"Regulation No. 100-02 Jul/2019\".\n2. The waiting period for electrolyte leakage after impact is different: \"60min\" in the 2021 version versus \"30min\" in the 2019 version.\n3. The 2021 version specifies different conditions for aqueous and non-aqueous electrolyte REESS, this is not present in the 2019 version.\n4. The 2019 version contains an additional section on confirming compliance to (c1) of Paragraph 6.4.2.3., which is not present in the 2021 version.\n5. The 2019 version has a section on Fire Resistance (6.5) which is not present in the 2021 version."
+    ],
+    "27": [
+        25,
+        20,
+        "1. Different versions: The first document is version \"100-03\" from \"Jul/2021\", while the second document is version \"100-02\" from \"Jul/2019\".\n2. Different Annexes for test conduct: In the first document, the tests are conducted in accordance with \"Annex 9F\" and \"9G\", while in the second document, the tests are conducted in accordance with \"Annex 8F\" and \"8G\".\n3. Different Annexes for isolation resistance measurement: In the first document, the measurement is done in accordance with \"Annex 5 B\", while in the second document, it is done in accordance with \"Annex 4B\".\n4. Additional criterion in the first document: In the first document, for both \"External Short Circuit Protection\" and \"Overcharge Protection\", there is an additional criterion about \"Venting (for REESS other than open-type traction battery)\" which is not present in the second document.\n5. Verification process: In the first document, there is an additional sentence \"An appropriate technique shall, if necessary, be used in order to confirm if there is any electrolyte leakage from the REESS resulting from the test.\" This is not present in the second document.\n6. Different page numbers: The first document is on \"PAGE: 25\", and the second document is on \"PAGE: 20\"."
+    ],
+    "28": [
+        26,
+        21,
+        "1. The regulation number has changed from \"Regulation No. 100-02\" in page_content_2 to \"UN Regulation No. 100-03\" in page_content_1.\n2. The copyright year changed from 2019 in page_content_2 to 2021 in page_content_1.\n3. The test for Over-discharge Protection and Over-temperature Protection has changed from \"Annex 8H\" and \"Annex 8I\" in page_content_2 to \"Annex 9H\" and \"Annex 9I\" in page_content_1.\n4. The acceptance criteria in page_content_1 have an additional condition \"(c) Venting (for REESS other than open-type traction battery)\" for both Over-discharge and Over-temperature Protection, which is missing in page_content_2.\n5. The method of verifying the evidence of electrolyte leakage and venting in page_content_1 is more detailed than in page_content_2.\n6. The reference for measuring the isolation resistance after the test is changed from \"Annex 4B\" in page_content_2 to \"Annex 5 B\" in page_content_1."
+    ],
+    "29": [
+        21,
+        17,
+        "1. The first document is from 2021 and is labeled as \"UN Regulation No. 100-03\", while the second document is from 2019 and is labeled as \"Regulation No. 100-02\".\n2. The first document mentions the test being in accordance with \"UN Regulations Nos. 94 or 137 for frontal impact\", while the second document mentions the test in accordance with \"Regulations Nos. 12 or 94 for frontal impact\".\n3. The first document does not contain section \"6.4.2.1.2. Vehicle Specific Component Test\", which is present in the second document. This section details additional testing methods and considerations for vehicle specific component tests."
+    ],
+    "30": [
+        27,
+        21,
+        "1. The pages are from different versions of the same document, one from 2021 (Regulation No. 100-03) and the other from 2019 (Regulation No. 100-02).\n2. The 2021 version discusses \"Overcurrent Protection\" and \"Low-temperature Protection\" while the 2019 version discusses \"Over-discharge Protection\" and \"Over-temperature Protection\".\n3. The 2021 version requires a test for \"venting\", which is not mentioned in the 2019 version.\n4. The 2021 document has an acceptance criteria related to overcurrent protection control of the REESS, and specifies a temperature gradient variance of less than 4°C through 2h after the maximum overcurrent charging level is reached. This is not present in the 2019 document.\n5. The 2021 document contains a section on \"Low-temperature Protection\" with specific details required from the REESS manufacturer, which is not present in the 2019 document."
+    ],
+    "31": [
+        39,
+        45,
+        "1. The copyright year differs: 2021 in the first document and 2019 in the second document.\n2. The regulation number and version differ: UN Regulation No. 100-03 (Jul/2021) in the first document and Regulation No. 100-02 (Jul/2019) in the second document.\n3. The page number differs: Page 39 in the first document and Page 45 in the second document.\n4. The time of generation differs: 2:40 PM in the first document and 2:38 PM in the second document."
+    ],
+    "32": [
+        30,
+        25,
+        "【No】"
+    ],
+    "33": [
+        35,
+        27,
+        "1. The copyright year changed from 2019 to 2021.\n2. The title changed from \"Regulation No. 100-02\" to \"UN Regulation No. 100-03\".\n3. The date and page number changed from \"Jul/2019 PAGE: 27\" to \"Jul/2021 PAGE: 35\".\n4. Page_content_2 has an extra field: \"12. Reason(s) for extension of approval (if applicable)\" and \"13. Approval granted/extended/refused/withdrawn(2):\".\n5. The document generation timestamp changed from \"2:38 PM\" to \"2:40 PM\"."
+    ],
+    "34": [
+        33,
+        25,
+        "1. The first document is from 2021 with the title \"UN Regulation No. 100-03\" and the second document is from 2019 with the title \"Regulation No. 100-02\".\n2. The first document does not include the field \"6.3. Propulsion system (e.g. hybrid, electric)\" and \"7. Vehicle submitted for approval on:\" which are present in the second document.\n3. The page number in the first document is 33, while in the second document it's 25."
+    ],
+    "35": [
+        37,
+        43,
+        "1. The copyright year is 2021 in page 1, while it's 2019 in page 2.\n2. The title of the documents are slightly different with \"UN Regulation No. 100-03\" in page 1 and \"Regulation No. 100-02\" in page 2.\n3. The date of the documents are different with \"Jul/2021\" in page 1 and \"Jul/2019\" in page 2.\n4. Page number is 37 in page 1, while it's 43 in page 2.\n5. The annex part is different. In page 1, it's \"ANNEX 1 – APPENDIX 1\", while in page 2, it's \"ANNEX 6 – PART 1\". \n6. The generation time of the documents are slightly different."
+    ],
+    "36": [
+        32,
+        24,
+        "1. The documents are from different years (2021 vs 2019) and versions (03 vs 02).\n2. The page numbers and section numbers are different (32 vs 24, 12 vs 10).\n3. In page_content_1, there are specific dates mentioned (September 1, 2023 and September 1, 2025) in the transitional provisions, while in page_content_2, it uses \"(36) months after the date of entry into force of the 02 series of amendments\".\n4. Page_content_2 contains sections about \"PRODUCTION DEFINITIVELY DISCONTINUED\" and \"NAMES AND ADDRESSES OF TECHNICAL SERVICES RESPONSIBLE FOR CONDUCTING APPROVAL TESTS AND OF TYPE APPROVAL AUTHORITIES\", which are not present in page_content_1.\n5. The language used in transitional provisions is slightly different, for example \"refuse to grant or refuse to accept type approvals\" vs \"refuse to grant approval\" and \"shall not be obliged to accept type approvals\" vs \"shall grant approvals only if\"."
+    ],
+    "37": [
+        38,
+        44,
+        "1. Different publication year: 2021 vs 2019.\n2. Different regulation number: UN Regulation No. 100-03 vs Regulation No. 100-02.\n3. Different publication date: Jul/2021 vs Jul/2019.\n4. Different page number: PAGE: 38 vs PAGE: 44.\n5. Different generated time: 2:40 PM vs 2:38 PM."
+    ],
+    "38": [
+        31,
+        24,
+        "1. The versions of the documents are different. The first is from 2021 and the second is from 2019.\n2. The document from 2021 is titled \"UN Regulation No. 100-03\" whereas the 2019 document is titled \"Regulation No. 100-02\".\n3. The page numbers are different, page 31 for the 2021 document and page 24 for the 2019 document.\n4. The 2021 document includes sections 8 and 9, which don't exist in the 2019 document.\n5. In the 2019 document, when production is discontinued, the approval holder informs the Authority and a communication form conforming to the model in Annex 1 is used. The 2021 document doesn't mention this form.\n6. The 2019 document includes section 12 titled \"TRANSITIONAL PROVISIONS\", which doesn't exist in the 2021 document."
+    ],
+    "39": [
+        34,
+        26,
+        "1. The copyright year in the first document is 2021 while in the second document it is 2019.\n2. The regulation number in the first document is 100-03 while in the second document it is 100-02.\n3. The issue date of the first document is Jul/2021 and of the second document is Jul/2019.\n4. The page number of the first document is 34 while it is 26 in the second document.\n5. The first document includes an extra point \"6.3. Propulsion system (e .g. hybrid, electric)\".\n6. The first document was generated at 2:40 PM while the second one was generated at 2:38 PM."
+    ],
+    "40": [
+        36,
+        26,
+        "The key differences are: \n1. The year of copyright, 2021 in page_content_1 and 2019 in page_content_2.\n2. The regulation number, UN Regulation No. 100-03 in page_content_1 and Regulation No. 100-02 in page_content_2.\n3. The date of the version, Jul/2021 in page_content_1 and Jul/2019 in page_content_2.\n4. The page number, 36 in page_content_1 and 26 in page_content_2.\n5. Additional fields in page_content_2, which are fields 8 to 11 that are not present in page_content_1.\n6. The time of generation, 2:40 PM in page_content_1 and 2:38 PM in page_content_2."
+    ],
+    "41": [
+        44,
+        32,
+        "1. The copyright year is 2021 in page_content_1 and 2019 in page_content_2.\n2. The Regulation No. is 100-03 in page_content_1 and 100-02 in page_content_2.\n3. The document date is Jul/2021 in page_content_1 and Jul/2019 in page_content_2.\n4. The page number is 44 in page_content_1 and 32 in page_content_2.\n5. The generation time of the document is 2:40 PM in page_content_1 and 2:38 PM in page_content_2."
+    ],
+    "42": [
+        43,
+        31,
+        "1. The titles named differently: \"UN Regulation No. 100-03\" versus \"Regulation No. 100-02\".\n2. The document version years are different: \"2021\" versus \"2019\".\n3. The page numbers are different: \"PAGE: 43\" versus \"PAGE: 31\".\n4. In the \"TEST CONDITIONS\" section, the term \"electrical protection barriers\" has been changed to \"barriers\".\n5. In the \"ACCEPTANCE CONDITIONS\" section, \"the test for protection Degree IPXXB\" has been changed to \"the test for IPXXB\" and \"the tests for protection Degree IPXXD\" has been changed to \"the tests for IPXXD\"."
+    ],
+    "43": [
+        46,
+        34,
+        "The key differences are:\n\n1. The title and the page number differs. The first document is titled \"UN Regulation No. 100-03\" and is on page 46, while the second document is titled \"Regulation No. 100-02\" and is on page 34.\n\n2. The dates of the documents are different. The first document is from July 2021 while the second one is from July 2019.\n\n3. The content and focus of the two documents are different. The first document discusses the verification of potential equalization using two testing methods - a resistance tester and a DC power supply, voltmeter, and ammeter. The second document discusses the isolation resistance measurement method for vehicle-based tests, providing general information and discussing a measurement method using voltage from off-vehicle sources.\n\n4. The copyright year is different. The first document is © InterRegs Ltd 2021, while the second one is © InterRegs Ltd 2019."
+    ],
+    "44": [
+        48,
+        34,
+        "1. The documents are from different years: 2021 in page_content_1 and 2019 in page_content_2.\n2. The documents reference different versions of the same regulation: UN Regulation No. 100-03 in page_content_1 and Regulation No. 100-02 in page_content_2.\n3. Page_content_2 contains additional general instructions and precautions not present in page_content_1, such as clarifying the range of the electrical circuit to be measured in advance, modifications for measuring the isolation resistance, etc.\n4. Page_content_1 includes the section \"Measurement Method Using the Vehicle's Own REESS as DC Voltage Source\" which is not present in page_content_2.\n5. The specific requirements for the voltmeter used in the test are mentioned in page_content_1 but not in page_content_2."
+    ],
+    "45": [
+        40,
+        46,
+        "The key differences are: \n1. The page number: \"PAGE: 40\" in the first content vs \"PAGE: 46\" in the second one.\n2. The regulation number: \"UN Regulation No. 100-03\" in the first content vs \"Regulation No. 100-02\" in the second.\n3. The year of copyright: \"© InterRegs Ltd 2021\" in the first content vs \"© InterRegs Ltd 2019\" in the second.\n4. The first content has an additional section \"1.1.1. Type of REESS\".\n5. The timestamp at the end: \"Generated on 9/8/23 at 2:40 PM\" in the first content vs \"Generated on 9/8/23 at 2:38 PM\" in the second."
+    ],
+    "46": [
+        45,
+        33,
+        "The key differences between the two pages from the PDF files are:\n1. The copyright year: 2021 in `page_content_1` and 2019 in `page_content_2`.\n2. The UN Regulation number and version: No. 100-03 Jul/2021 in `page_content_1` and No. 100-02 Jul/2019 in `page_content_2`.\n3. The page number: Page 45 in `page_content_1` and Page 33 in `page_content_2`.\n4. A minor typographical difference in the description of tolerances on dimensions, where `page_content_1` breaks down linear dimensions into two separate points `(i)` and `(ii)`, whereas `page_content_2` combines them into one sentence.\n5. The time of generation: Generated at 2:40 PM in `page_content_1` and at 2:38 PM in `page_content_2`."
+    ],
+    "47": [
+        41,
+        29,
+        "1. The copyright year is different - 2021 in page_content_1 and 2019 in page_content_2.\n2. The Regulation number is different - \"UN Regulation No. 100-03\" in page_content_1 and \"Regulation No. 100-02\" in page_content_2.\n3. The date is different - \"Jul/2021\" in page_content_1 and \"Jul/2019\" in page_content_2.\n4. The page number is different - \"PAGE: 41\" in page_content_1 and \"PAGE: 29\" in page_content_2.\n5. The time the documents were generated is also different."
+    ],
+    "48": [
+        49,
+        36,
+        "【Key Differences】: \n1. The versions of the documents are different. Page_content_1 is from \"Regulation No. 100-03\" and was updated in \"Jul/2021\" while Page_content_2 is from \"Regulation No. 100-02\" and was updated in \"Jul/2019\".\n2. Page_content_1 is \"PAGE: 49\" while Page_content_2 is \"PAGE: 36\".\n3. Page_content_1 discusses the measuring and recording of voltages U1 and U2. On the other hand, Page_content_2 discusses V1 and V2. \n4. In Page_content_2, there's an additional step when V2 is greater than V1, which is not mentioned in Page_content_1."
+    ],
+    "49": [
+        42,
+        30,
+        "1. The copyright year on Page 1 is 2021, while on Page 2 it is 2019.\n2. The title of the regulation on Page 1 is \"UN Regulation No. 100-03\" and the date is Jul/2021, while on Page 2 it is \"Regulation No. 100-02\" and the date is Jul/2019.\n3. The page number on Page 1 is 42, while on Page 2 it is 30.\n4. The document generation time on Page 1 is 2:40 PM, while on Page 2 it is 2:38 PM."
+    ],
+    "50": [
+        47,
+        34,
+        "The key differences between **page_content_1** and **page_content_2** are:\n\n1. Document Version and Date:\n   - Page 1 is from the document \"UN Regulation No. 100-03\" issued in Jul/2021.\n   - Page 2 is from the document \"Regulation No. 100-02\" issued in Jul/2019.\n\n2. Page Number and Annex Number:\n   - Page 1 is page number 47 and Annex 5A.\n   - Page 2 is page number 34 and Annex 4A.\n\n3. Mention of Measurement Alternatives:\n   - Page 1 mentions \"Megohmmeter or oscilloscope measurements are appropriate alternatives to the procedure described below for measuring isolation resistance.\"\n   - This sentence is not present in Page 2.\n\n4. On-Board Isolation Resistance Monitoring System:\n   - Page 1 mentions that \"it may be necessary to deactivate the on-board isolation resistance monitoring system.\"\n   - This sentence is not present in Page 2.\n\n5. Measurement Method using Voltage Sources:\n   - Page 1 mentions \"Measurement Method using DC Voltage from External Sources.\"\n   - Page 2 mentions \"Measurement method using voltage from off-vehicle sources.\"\n\n6. Additional Measurement Method in Page 2:\n   - Page 2 includes an additional measurement method in section \"2.1.2. Measurement Method\" which is not present in Page 1. \n\n7. Copyright Year:\n   - Page 1 is Copyrighted in 2021.\n   - Page 2 is Copyrighted in 2019."
+    ],
+    "51": [
+        51,
+        37,
+        "The key differences between the two pages are:\n\n1. The version and date: the first page is from \"Regulation No. 100-03, Jul/2021\" while the second page is from \"Regulation No. 100-02, Jul/2019\".\n2. The first page is PAGE: 51 while the second page is PAGE: 37.\n3. The first page contains extra content such as \"D NATIONS o f Vehicles\", \"of U2'\", \"© In UN Rking voltage o\" which are not found on the second page.\n4. The title for the measurement figure differs. The first page refers to it as \"Figure 3  of U2'\" while the second page refers to it as \"Figure 3 Measurement of V2’\"."
+    ],
+    "52": [
+        57,
+        20,
+        "【No】"
+    ],
+    "53": [
+        52,
+        38,
+        "1. The document version changed from \"Regulation No. 100-02 Jul/2019\" to \"UN Regulation No. 100-03 Jul/2021\".\n2. The page number changed from \"PAGE: 38 ANNEX 4B\" to \"PAGE: 52 ANNEX 5B\".\n3. The term \"Tested-Device\" was changed to \"tested-device\" and \"Ub, Figure 1\" was changed to \"Vb, Figure 1\".\n4. In page_content_2, there is an additional method \"1.1.2. Measurement Method\" which does not exist in page_content_1.\n5. In page_content_1, it is mentioned that \"Megohmmeter or oscilloscope measurements are appropriate alternatives to the procedure...\" This sentence is not present in page_content_2.\n6. There are differences in the wording regarding the modifications necessary for measuring isolation resistance and the precautions during the process. For example, in page_content_1, it is stated that \"a set of drawings will be used to prove that the isolation resistance... remains unchanged\", while in page_content_2, it says \"it shall be proven, using drawings, etc., that it will not change the isolation resistance...\"."
+    ],
+    "54": [
+        54,
+        40,
+        "The key differences are:\n\n1. Different document version: the first is \"Jul/2021\" and the second is \"Jul/2019\".\n\n2. Different page number: the first is \"PAGE: 54\" and the second is \"PAGE: 40\".\n\n3. Different document identifiers: the first is \"No. 100-03\" and the second is \"Regulation No. 100-02\".\n\n4. Different terms are used to represent similar concepts: \"U1, U2, U1', U2', Ro, Ub, Ri\" in the first document is represented as \"V1, V2, V1', V2', Ro, Vb, Ri\" in the second document.\n\n5. In the first document, it refers to \"Tested-Device\" and in the second document, it refers to \"tested-device\"."
+    ],
+    "55": [
+        50,
+        36,
+        "1. Different versions: page_content_1 is Jul/2021, Regulation No. 100-03, PAGE: 50; page_content_2 is Jul/2019, Regulation No. 100-02, PAGE: 36.\n2. Different formulas: page_content_1 uses Ri = Ro × Ub × (1/U2' – 1/U2); page_content_2 uses Ri = Ro*(Vb/V1’ – Vb/V1) or Ri = Ro*Vb*(1/V1’ – 1/V1) and Ri = Ro*(Vb/V2’ – Vb/V2) or Ri = Ro*Vb*(1/V2’ – 1/V2).\n3. Different steps: page_content_2 has defined steps, while page_content_1 does not clearly define the steps.\n4. Different symbols: page_content_1 uses U1, U2, Ro, Ub, while page_content_2 uses V1, V2, Ro, Vb.\n5. Different measurement: page_content_1 measures the positive side of the high voltage bus and the electrical chassis; page_content_2 measures both the positive and negative sides of the high voltage bus and the electrical chassis."
+    ],
+    "56": [
+        55,
+        41,
+        "The key differences between these two pages are:\n\n1. Different document versions: The first document is marked \"Jul/2021\" and the second \"Jul/2019\". \n2. Different Regulation Numbers: The first document refers to \"Regulation No. 100-03\", while the second refers to \"Regulation No. 100-02\".\n3. Page numbers are different: The first document is page 55, while the second is page 41.\n4. The first document has a more fragmented and disorganized text layout and includes some incomplete sentences, while the second document has a more cohesive and structured layout.\n5. The copyright year is different: The first document indicates © InterRegs Ltd 2021, while the second shows © InterRegs Ltd 2019.\n6. The first document mentions a person named \"hellen.zhou@sgs.com\", while the second does not."
+    ],
+    "57": [
+        56,
+        42,
+        "1. The year and version of the documents differ: 2021 for page_content_1 and 2019 for page_content_2.\n2. The regulation number and page number are different: Regulation No. 100-03, Page 56 for page_content_1 and Regulation No. 100-02, Page 42 for page_content_2.\n3. The method for testing the on-board isolation resistance monitoring system is more detailed in page_content_1, providing specific steps and calculations, while page_content_2 gives a more general description."
+    ],
+    "58": [
+        53,
+        38,
+        "The key differences are:\n\n1. Different dates: \"Jul/2021\" in page_content_1 vs \"Jul/2019\" in page_content_2.\n2. Different regulation versions: \"Regulation No. 100-03\" in page_content_1 vs \"Regulation No. 100-02\" in page_content_2.\n3. Different page numbers: \"PAGE: 53\" in page_content_1 vs \"PAGE: 38\" in page_content_2.\n4. The page_content_1 seems to be a part of a table of contents with incomplete sentences and missing context, while page_content_2 provides a detailed description of the isolation resistance measurement method.\n5. Different copyright years: \"© InterRegs Ltd 2021\" in page_content_1 vs \"© InterRegs Ltd 2019\" in page_content_2.\n6. Different titles: No explicit title in page_content_1 vs \"ISOLATION RESISTANCE MEASUREMENT METHOD FOR COMPONENT BASED TESTS OF A REESS\" in page_content_2."
+    ],
+    "59": [
+        59,
+        20,
+        "The two pages from the PDFs discuss different regulations under the United Nations. Key differences include:\n\n1. **Date and version**: The first page (page_content_1) is from 2021 and refers to UN Regulation No. 100-03. The second page (page_content_2) is from 2019 and mentions Regulation No. 100-02.\n\n2. **Page number and content**: The first page is page 59 and provides information about the \"Splashing Test Nozzle\" and the conditions for checking the high voltage system. The second page is page 206 and describes various tests, including the \"Component Based Test,\" \"External Short Circuit Protection,\" and \"Overcharge Protection.\"\n\n3. **Acceptance criteria**: The second page specifically outlines the acceptance criteria for the tests, such as no evidence of explosion, electrolyte leakage, rupture, and fire, which are not mentioned in the first page.\n\n4. **Additional Details**: The second page also provides specific details about the isolation resistance measurements after the tests as per Annex 4B to this Regulation, which is not mentioned in the first page. \n\nOverall, while the documents pertain to the same overall topic of vehicle regulations, they discuss different aspects and details."
+    ],
+    "60": [
+        58,
+        72,
+        "【No】"
+    ],
+    "61": [
+        61,
+        48,
+        "The key differences between 【page_content_1】 and 【page_content_2】 are as follows:\n\n1. The copyright year in the header is 2021 in page_content_1 and 2019 in page_content_2.\n2. The UN Regulation number differs. It’s No. 100-03 in page_content_1 and No. 100-02 in page_content_2.\n3. The date and page number are different. In page_content_1, it's Jul/2021 PAGE: 61, while in page_content_2, it's Jul/2019 PAGE: 48.\n4. The annex number is different. It's ANNEX 8 in page_content_1, and ANNEX 7 in page_content_2.\n5. The figure number in the description of the test differs. It’s Figure 1 of Annex 8 in page_content_1, and Figure 7.1 of the present annex in page_content_2.\n6. The mention of standard cycles in the Component Based Test section refers to Annex 9, Appendix 1 in page_content_1, and Annex 8, Appendix 1 in page_content_2."
+    ],
+    "62": [
+        60,
+        32,
+        "【No】"
+    ],
+    "63": [
+        69,
+        56,
+        "The key differences between the two pages are:\n\n1. The year of copyright: The first page is copyrighted in 2021, while the second page is copyrighted in 2019.\n2. The regulation number and version: The first page refers to UN Regulation No. 100-03, while the second page refers to Regulation No. 100-02.\n3. The page numbers are different: Page 69 for the first document and Page 56 for the second document.\n4. The reference for hydrogen emission calculation: In the first, it refers to \"Annex 8, Paragraph 6\", while in the second, it's \"Paragraph 6. of this annex\"."
+    ],
+    "64": [
+        66,
+        53,
+        "1. Different versions: \"UN Regulation No. 100-03 Jul/2021\" vs \"Regulation No. 100-02 Jul/2019\".\n2. Different pages: \"PAGE: 66\" vs \"PAGE: 53\".\n3. Paragraph 5.1.2 reference is included in the second document but not in the first.\n4. In the second document, there is a note about an error in the reference to Paragraph 5.2."
+    ],
+    "65": [
+        67,
+        54,
+        "The key differences between the two pages from the PDF files are:\n\n1. The **copyright year** has changed from \"© InterRegs Ltd 2019\" in page_content_2 to \"© InterRegs Ltd 2021\" in page_content_1.\n\n2. The **UN Regulation number** and **date** have been updated. In page_content_2 it is \"Regulation No. 100-02 Jul/2019\", while in page_content_1 it is \"UN Regulation No. 100-03 Jul/2021\".\n\n3. The **page numbers** are different, with page_content_2 being \"PAGE: 54\" and page_content_1 being \"PAGE: 67\".\n\n4. In the **Hydrogen Emission Test During a Normal Charge** section, the references to annexes and paragraphs are slightly different. For example, in page_content_2, the references are like \"Paragraph 6. of this annex\", while in page_content_1, they are like \"Annex 8, Paragraph 6.\".\n\n5. The **footer** has different timestamps. Page_content_2 was \"Generated on 9/8/23 at 2:38 PM\", while page_content_1 was \"Generated on 9/8/23 at 2:40 PM\".\n\nPlease note that the actual content of the procedures and tests described in both documents appears to be the same. The differences are mainly in document metadata and referencing."
+    ],
+    "66": [
+        68,
+        55,
+        "1. The document version: \"UN Regulation No. 100-03 Jul/2021\" vs \"Regulation No. 100-02 Jul/2019\".\n2. In 5.1.5.2, \"Annex 8, Paragraph 5.1.3.\" vs \"Paragraph 5.1.3. of this Annex\".\n3. In 5.1.5.8, \"hydrogen emission calculation (Annex 8, Paragraph 6.)\" vs \"hydrogen emission calculation (Paragraph 6. of this annex)\".\n4. In 5.1.5.11, \"calculation in Annex 8, Paragraph 6.\" vs \"calculation in Paragraph 6. of this annex\"."
+    ],
+    "67": [
+        62,
+        49,
+        "The key differences between the two pages are:\n\n1. InterRegs Ltd copyright year: 2021 in `page_content_1` vs 2019 in `page_content_2`.\n2. The regulation number and version: UN Regulation No. 100-03 in `page_content_1` vs Regulation No. 100-02 in `page_content_2`.\n3. The date mentioned: Jul/2021 in `page_content_1` vs Jul/2019 in `page_content_2`.\n4. Page number: PAGE: 62 in `page_content_1` vs PAGE: 49 in `page_content_2`.\n5. The figure referred to: Annex 8 Figure 1 in `page_content_1` vs Figure 7.1 in `page_content_2`.\n6. The time the document was generated: 2:40 PM in `page_content_1` vs 2:38 PM in `page_content_2`."
+    ],
+    "68": [
+        63,
+        50,
+        "1. The documents are from different years, 2021 and 2019 respectively.\n2. The documents reference different regulations, UN Regulation No. 100-03 and Regulation No. 100-02 respectively.\n3. Page number is 63 in the 2021 document and 50 in the 2019 document.\n4. The 2021 document references \"Annex 8, Appendix 1\", while the 2019 document references \"Appendix 1 to this annex\" and \"Annex 7, Appendix 1, Paragraph 2.1.1.\" for the hydrogen emission measurement enclosure and variable volume enclosure."
+    ],
+    "69": [
+        65,
+        52,
+        "1. The document version and release date are different: \"UN Regulation No. 100-03 Jul/2021\" versus \"Regulation No. 100-02 Jul/2019\".\n2. The page number is different: \"PAGE: 65\" versus \"PAGE: 52\".\n3. In section 4.8.2, the reference to the concentrations specified differs: \"Annex 8, Appendix 1\" versus \"Appendix 1\"."
+    ],
+    "70": [
+        64,
+        51,
+        "The key differences are:\n1. The copyright year, 2021 in page_content_1 and 2019 in page_content_2.\n2. The version of the regulation, UN Regulation No. 100-03 in page_content_1 and Regulation No. 100-02 in page_content_2.\n3. The page numbers, page 64 in page_content_1 and page 51 in page_content_2.\n4. The date of the document, Jul/2021 in page_content_1 and Jul/2019 in page_content_2.\n5. The time of generation, 2:40 PM in page_content_1 and 2:38 PM in page_content_2."
+    ],
+    "71": [
+        75,
+        62,
+        "1. The copyright year: 2021 in page_content_1 and 2019 in page_content_2.\n2. The Regulation number: No. 100-03 in page_content_1 and No. 100-02 in page_content_2.\n3. The date: Jul/2021 in page_content_1 and Jul/2019 in page_content_2.\n4. The page number: 75 in page_content_1 and 62 in page_content_2.\n5. page_content_1 includes an additional paragraph 3.3 about the calibration curve which is not present in page_content_2.\n6. The generation time of the document: 2:40 PM in page_content_1 and 2:38 PM in page_content_2."
+    ],
+    "72": [
+        71,
+        58,
+        "The key differences are:\n1. The copyright year, which is 2021 in page_content_1 and 2019 in page_content_2.\n2. The regulation number and version, which are \"UN Regulation No. 100-03\" and \"Jul/2021\" in page_content_1, and \"Regulation No. 100-02\" and \"Jul/2019\" in page_content_2.\n3. Page number is 71 in page_content_1 and 58 in page_content_2.\n4. The generation time of the document, which is 2:40 PM in page_content_1 and 2:38 PM in page_content_2."
+    ],
+    "73": [
+        79,
+        65,
+        "1. The \"Title\" and \"Page\" numbers are different: \"UN Regulation No. 100-03\" and \"Page: 79\" in the first document vs. \"Regulation No. 100-02\" and \"Page: 65\" in the second document.\n2. The \"Annex\" numbers are different: \"Annex 9A\" vs. \"Annex 8A\".\n3. The test in the second document is to be conducted with a \"related REESS subsystem(s) including the cells and their electrical connections\", while in the first document it can be conducted with the complete REESS or \"with REESS subsystem(s)\".\n4. In the first document, the test should be conducted at an \"ambient temperature of 22 ± 5°C\", while in the second document the temperature is \"20 ± 10°C\".\n5. The SOC adjustment before the test in the first document is in accordance with \"Annex 9, Appendix 2\", while in the second document it should be \"adjusted to a value in the upper 50% of the normal operating SOC range of the tested device\"."
+    ],
+    "74": [
+        78,
+        80,
+        "【No】"
+    ],
+    "75": [
+        70,
+        57,
+        "1. The version of the regulation differs: \"UN Regulation No. 100-03 Jul/2021\" vs \"Regulation No. 100-02 Jul/2019\".\n2. The reference to the calculation in the final readings differs: \"used for the calculation in Annex 8, Paragraph 6.\" vs \"used for the calculation in Paragraph 6. of this annex\".\n3. The reference to the hydrogen emission calculation differs: \"hydrogen emission calculation (Annex 8, Paragraph 6.)\" vs \"hydrogen emission calculation (Paragraph 6. of this annex)\".\n4. The copyright year differs: \"© InterRegs Ltd 2021\" vs \"© InterRegs Ltd 2019\"."
+    ],
+    "76": [
+        77,
+        64,
+        "The key differences are:\n1. The documents are different versions from different years (2021 vs 2019).\n2. The document titles are slightly different (\"UN Regulation No. 100-03\" vs \"Regulation No. 100-02\").\n3. The page numbers are different (77 vs 64).\n4. The Annex numbers are different (9 vs 8).\n5. The rest period after discharge is different (15min vs 30min).\n6. In the newer version, additional details about discharge and charge procedures for complete vehicles are provided."
+    ],
+    "77": [
+        73,
+        60,
+        "1. The version and date of the document are different: 2021 version \"UN Regulation No. 100-03\" versus 2019 version \"Regulation No. 100-02\".\n2. Page 1 is missing paragraph 2.2.5 which is about the chamber being sealed and the background hydrogen concentration, temperature and barometric pressure being measured.\n3. In paragraph 2.2.8, page 1 refers to calculating the change in mass of hydrogen \"in accordance with Annex 8, Paragraph 2.4\", while page 2 refers to \"Paragraph 2.4. o f this Annex\".\n4. Page 2 has an additional paragraph 2.3.9 about allowing the contents of the chamber to mix for a minimum of 10h, which is not present on page 1."
+    ],
+    "78": [
+        72,
+        59,
+        "1. Document version and date: \"UN Regulation No. 100-03 Jul/2021\" vs \"Regulation No. 100-02 Jul/2019\".\n2. Page number and Annex number: \"PAGE: 72 ANNEX 8\" vs \"PAGE: 59 ANNEX 7\".\n3. Page content 2 includes an additional point \"2.2.5. The chamber is then sealed and the background hydrogen concentration, temperature and barometric pressure are measured. These are the initial readings CH2i, Ti and P i used in the enclosure background calculation.\" which is not in page content 1."
+    ],
+    "79": [
+        74,
+        61,
+        "1. The versions of the documents are different, 2021 for the first one and 2019 for the second one.\n2. The regulation numbers are different, \"UN Regulation No. 100-03\" for the first one and \"Regulation No. 100-02\" for the second one.\n3. In section 2.3.9 of the first document, there's an explanation about the hydrogen retention check which is missing in the second document.\n4. In the calibration of the hydrogen analyser, the first document refers to Annex 8, Paragraph 4.8.2, while the second document refers to Paragraph 4.8.2. of Annex 7.\n5. The second document contains an additional point 3.3 in the calibration procedure which states that the calibration curve should not differ by more than 2% from the nominal value of each calibration gas. This point is absent in the first document."
+    ],
+    "80": [
+        76,
+        63,
+        "The key differences are:\n\n1. The document title: \"UN Regulation No. 100-03\" in page_content_1 vs \"Regulation No. 100-02\" in page_content_2\n2. The date of the documents: \"Jul/2021\" in page_content_1 vs \"Jul/2019\" in page_content_2\n3. The page number: \"PAGE: 76\" in page_content_1 vs \"PAGE: 63\" in page_content_2\n4. The Annex number: \"ANNEX 8\" in page_content_1 vs \"ANNEX 7\" in page_content_2\n5. The copyright year: \"InterRegs Ltd 2021\" in page_content_1 vs \"InterRegs Ltd 2019\" in page_content_2\n6. The generation time of the document: \"Generated on 9/8/23 at 2:40 PM\" in page_content_1 vs \"Generated on 9/8/23 at 2:38 PM\" in page_content_2\n"
+    ],
+    "81": [
+        80,
+        66,
+        "1. The document version: \"UN Regulation No. 100-03 Jul/2021 PAGE: 80\" vs \"Regulation No. 100-02 Jul/2019 PAGE: 66\".\n2. The wording in the penultimate paragraph: \"The approval of a REESS tested according to this condition shall be limited to the installation for a specific vehicle type.\" vs \"The approval of a REESS tested according to this condition shall be limited to approvals for a specific vehicle type.\""
+    ],
+    "82": [
+        88,
+        74,
+        "1. The first document is the 2021 version of the regulation (UN Regulation No. 100-03), while the second document is the 2019 version (Regulation No. 100-02).\n2. The first document has a section titled \"Component Based Test\" in which a manufacturer can choose between a gasoline pool fire test or an LPG burner test, while the second document doesn't mention this choice.\n3. The second document contains an additional section (3.7) that details the test phases, including a pre-heating phase. This section is not present in the first document."
+    ],
+    "83": [
+        86,
+        72,
+        "The key differences are: \n1. The documents are from different years (2021 vs 2019). \n2. The Regulation number is different (Regulation No. 100-03 vs Regulation No. 100-02).\n3. Page number is different (Page 86 vs Page 72).\n4. In page_content_1, the decision of the application of the force is solely made by the manufacturer while in page_content_2, it's a joint decision with the Technical Service.\n5. The Crush Test and Crush Force description are missing in page_content_2."
+    ],
+    "84": [
+        89,
+        75,
+        "1. The version of the documents is different, the first document is from 2021 and the second one is from 2019.\n2. The page numbers are different: page 89 in the 2021 document and page 75 in the 2019 document.\n3. The regulation numbers are different: UN Regulation No. 100-03 in the 2021 document and Regulation No. 100-02 in the 2019 document.\n4. The 2021 document includes a test phase \"3.3.4. The test shall comprise of three phases B-D, if the fuel is at least at temperature of 20°C. Otherwise the test shall comprise four Phases A–D\" and a detailed explanation of Phase A: Pre-heating, which are not present in the 2019 document.\n5. The 2019 document includes a section \"3.7.3 Phase C: Indirect Exposure to Flame\" which does not exist in the 2021 document.\n6. The sequence number of \"Phase B: Direct Exposure to Flame\" is different in the two documents: 3.3.4.2 in the 2021 document and 3.7.2 in the 2019 document."
+    ],
+    "85": [
+        84,
+        70,
+        "1. The copyright year is different: 2021 in page_content_1 vs 2019 in page_content_2.\n2. The title of the regulation: \"UN Regulation No. 100-03\" in page_content_1 vs \"Regulation No. 100-02\" in page_content_2.\n3. The document date: Jul/2021 in page_content_1 vs Jul/2019 in page_content_2.\n4. The page number: 84 in page_content_1 vs 70 in page_content_2.\n5. The generated time: 2:40 PM in page_content_1 vs 2:38 PM in page_content_2."
+    ],
+    "86": [
+        87,
+        73,
+        "1. The document's title is different: \"UN Regulation No. 100-03\" vs \"Regulation No. 100-02\".\n2. The date mentioned in the documents is different: \"Jul/2021\" vs \"Jul/2019\".\n3. In the 'INSTALLATIONS' section, the first document mentions testing with \"REESS subsystem(s)\", whereas the second document specifies \"related REESS subsystem(s) including the cells and their electrical connections\".\n4. In the 'PROCEDURES' section, the first document mentions the SOC shall be adjusted in accordance with Annex 9, Appendix 2, while the second document mentions the SOC should be adjusted to a value in the upper 50% of the normal operating SOC range."
+    ],
+    "87": [
+        83,
+        69,
+        "The key differences are: \n1. The copyright year: 2021 in page_content_1 and 2019 in page_content_2.\n2. The Regulation No.: 100-03 in page_content_1 and 100-02 in page_content_2.\n3. The date: Jul/2021 in page_content_1 and Jul/2019 in page_content_2.\n4. The page number: 83 in page_content_1 and 69 in page_content_2.\n5. The generation time: 2:40 PM in page_content_1 and 2:38 PM in page_content_2."
+    ],
+    "88": [
+        82,
+        68,
+        "1. Different version and date: \"UN Regulation No. 100-03 Jul/2021\" vs \"Regulation No. 100-02 Jul/2019\". \n2. Different annex: \"ANNEX 9C\" vs \"ANNEX 8C\".\n3. Different page number: \"PAGE: 82\" vs \"PAGE: 68\".\n4. Different test installation description: \"with REESS subsystem(s)\" vs \"with related REESS subsystem(s) including the cells and their electrical connections\".\n5. Different SOC adjustment description: \"the SOC shall be adjusted in accordance with Annex 9, Appendix 2\" vs \"the SOC shall be adjusted to a value in the upper 50% of the normal operating SOC range\".\n6. Different description on who decides the test direction: \"The manufacturer shall decide\" vs \"The Technical Service in consultation with the manufacturer shall decide\"."
+    ],
+    "89": [
+        81,
+        67,
+        "1. The title and page number changed from \"UN Regulation No. 100-03, Page: 81, ANNEX 9B\" to \"Regulation No. 100-02, Page: 67, ANNEX 8B\".\n2. In section \"2. INSTALLATIONS\", the 2019 version included \"of the REESS including the cells and their electrical connections\".\n3. In section \"3.1. General Test Conditions\", the condition for SOC adjustment changed from \"in accordance with Annex 9, Appendix 2\" to \"a value in the upper 50% of the normal operating SOC range\".\n4. The ambient temperature for storing the tested-device after the test cycles changed from \"22 ± 5°C\" to \"20 ± 10°C\".\n5. The reference to the standard cycle changed from \"Annex 9, Appendix 1\" to \"Annex 8, Appendix 1\"."
+    ],
+    "90": [
+        85,
+        71,
+        "1. Different version: \"Regulation No. 100-03 Jul/2021\" vs \"Regulation No. 100-02 Jul/2019\".\n2. Page number difference: Page 85 vs Page 71.\n3. Different annex number: \"ANNEX 9D\" vs \"ANNEX 8D\".\n4. In 2.1. installation, the phrase \"or with REESS subsystem(s)\" vs \"or with a related REESS subsystem(s) including the cells and their electrical connections\".\n5. In 3.1. (b) General Test Conditions, \"the SOC shall be adjusted in accordance with Annex 9, Appendix 2\" vs \"the SOC shall be adjusted to a value in the upper 50% of the normal operating SOC range\".\n6. Page_content_2 includes an extra Crush Test section (3.2.) not present in page_content_1."
+    ],
+    "91": [
+        99,
+        53,
+        "The key differences between the two page contents are as follows:\n\n1. The Title and Version: The first content is titled \"Approval of Vehicles UN Regulation No. 100-03 Jul/2021\" while the second content is titled \"Approval of Vehicles Regulation No. 100-02 Jul/2019\". \n\n2. Discharging Procedure: The first content provides detailed steps for discharging the REESS for vehicle-based tests in active driving possible mode and in stationary condition. It also mentions consultation with the manufacturer and conditions for terminating the discharging process. The second content, however, mentions discharging of REESS while driving on a test track or a chassis dynamometer at a steady speed, and conditions for stopping the discharging.\n\n3. Charging Procedure: The first content doesn't mention a charging procedure while the second content details an initial charge of the REESS, excluding all types of external chargers.\n\n4. The second content also mentions a soak period after the battery discharge operation, which is not present in the first content."
+    ],
+    "92": [
+        96,
+        80,
+        "【Key Differences】:\n\n1. In page_content_1, the title is \"Approval of Vehicles UN Regulation No. 100-03\" and the date is Jul/2021, while in page_content_2, the title is \"Approval of Vehicles Regulation No. 100-02\" and the date is Jul/2019.\n2. Page_content_1 has detailed procedures for charge by vehicle operation (3.2.1) and charge by external electricity supply (3.2.2), while page_content_2 focuses on overcharge protection test procedures (3.1 and 3.2) and does not mention vehicle operation or external electricity supply.\n3. Page_content_1 discusses vehicle-based tests, chassis dynamometer, and REESS charging, whereas page_content_2 mentions testing complete REESS or related subsystems, ambient temperature, and charging with a charge current of at least 1/3C rate."
+    ],
+    "93": [
+        91,
+        75,
+        "The key differences are:\n\n1. The regulations are from different versions. Page 1 is from \"UN Regulation No. 100-03 Jul/2021\" and page 2 is from \"Regulation No. 100-02 Jul/2019\".\n\n2. The test setup and procedure are different. Page 1 describes a LPG Burner Fire Test with detailed steps and temperature requirements. Page 2 describes three phases of flame exposure test, including direct and indirect exposure to flame.\n\n3. Page 1's test requires the Tested-Device to be exposed to a flame of an average temperature of 800°C to 1,100°C for 2min. Page 2's test exposes the Tested-Device to the flame from the freely burning fuel for 70s directly and a further 60s indirectly.\n\n4. Page 1 details the placement and use of temperature sensors during the test, while page 2 does not.\n\n5. Page 1 requires an observation period after direct flame exposure until the Tested-Device's surface temperature has decreased to ambient temperature or has been decreasing for a minimum of 3h. Page 2 does not mention an observation period."
+    ],
+    "94": [
+        94,
+        78,
+        "Key differences between the two pages:\n\n1. Title: Page 1 is from UN Regulation No. 100-03 (Jul/2021), while Page 2 is from Regulation No. 100-02 (Jul/2019).\n2. Page Content: \n   a. Page 1 includes a \"3.3. Standard Cycle and Observation Period\" section, which is not present in Page 2. \n   b. In the \"Short Circuit\" section, Page 1 mentions testing with a complete vehicle and using a breakout harness, which is not mentioned in Page 2.\n   c. In the \"Short Circuit\" section, Page 1 mentions the temperature gradient varying by less than 4°C through 2h, while Page 2 states less than 4°C through 1 hour.\n3. Page Number: Page 1 is PAGE: 94, and Page 2 is PAGE: 78 ANNEX 8F."
+    ],
+    "95": [
+        98,
+        82,
+        "1. The pages are from different versions of the document: 2021 version titled \"UN Regulation No. 100-03\" with page number 98, Annex 9H vs. 2019 version titled \"Regulation No. 100-02\" with page number 82, Annex 8H.\n2. In the PURPOSE section, page_content_1 talks about verifying the performance of the over-discharge protection to prevent severe events from a low SOC. Whereas, page_content_2 mentions that if such functionality is implemented, it should interrupt or limit the discharge current to prevent severe events from a low SOC as specified by the manufacturer.\n3. In INSTALLATIONS section, page_content_1 states the test can be conducted with a complete vehicle or REESS. Ancillary systems that don't influence the test results may be omitted. It also allows for a modified tested device. In page_content_2, the test can be conducted with the complete REESS or related subsystem(s). If testing with subsystem(s), the manufacturer should prove that the test result represents the complete REESS's performance.\n4. In PROCEDURES section, page_content_1 mentions SOC of REESS should be adjusted at a low level, but within normal operating range. For vehicles with onboard energy conversion systems, the electrical energy should be reduced. In page_content_2, it details the steps involving discharging, standard charge, and an observation period which are not present in page_content_1."
+    ],
+    "96": [
+        92,
+        77,
+        "【Key Differences】:\n1. Page content 1 is from 2021, while page content 2 is from 2019.\n2. Page content 1 refers to UN Regulation No. 100-03, while page content 2 refers to Regulation No. 100-02.\n3. Page content 1 is on page 92 and has ANNEX 9E – APPENDIX 1, while page content 2 is on page 77 and has ANNEX 8E – APPENDIX 1."
+    ],
+    "97": [
+        90,
+        75,
+        "【page_content_1】:\n- UN Regulation No. 100-03\n- Jul/2021\n- PAGE: 90\n- 3.3.4.4. Phase D: End of Test (Figure 4)\n\n【page_content_2】:\n- Regulation No. 100-02\n- Jul/2019\n- PAGE: 75\n- 3.7.2. Phase B: Direct Exposure to Flame (Figure 2)\n- 3.7.3 Phase C: Indirect Exposure to Flame (Figure 3)"
+    ],
+    "98": [
+        97,
+        80,
+        "The key differences are:\n\n1. The version from 2021 (page_content_1) is titled \"UN Regulation No. 100-03\", while the 2019 version (page_content_2) is titled \"Regulation No. 100-02\".\n2. The page content and testing procedures detailed are different. Page_content_1 elaborates on charging procedures, specifying external charging and component-based tests. Page_content_2 outlines a general overcharge protection test without specific charging procedures.\n3. The test conditions and requirements are different. Page_content_1 mentions requirements for charging, while page_content_2 discusses general test conditions.\n4. Page_content_2 specifies that the test is performed at the \"ambient temperature of 20 ± 10°C or at higher temperature if requested by the manufacturer\", which is not mentioned in page_content_1."
+    ],
+    "99": [
+        95,
+        80,
+        "【Key Differences】:\n\n1. In page_content_1, the purpose of the test is described as \"to prevent the REESS from any further related severe events caused by a too high SOC\", while in page_content_2, it is simply \"to verify the performance of the overcharge protection.\"\n\n2. In page_content_1, the test can be conducted with a complete vehicle or the complete REESS, while in page_content_2, the test can be conducted with the complete REESS, the complete vehicle, or related REESS subsystem(s).\n\n3. In page_content_1, there is an additional requirement (b) for SOC adjustment of REESS around the middle of the normal operating range, and (c) for vehicle-based test of vehicles with on-board energy conversion systems.\n\n4. In page_content_1, there are different charging procedure options (3.2.1., 3.2.2., 3.2.3., and 3.2.4.), while in page_content_2, there is only one charging procedure."
+    ],
+    "100": [
+        93,
+        78,
+        "1. The document versions are different: 2021 version vs 2019 version.\n2. The regulation number is different: No. 100-03 vs No. 100-02.\n3. Page number is different: Page 93 vs Page 78.\n4. The purpose of the test is described differently, 2021 version focuses on \"the performance of the short circuit protection to prevent the REESS from any further related severe events caused by short circuit current\" while the 2019 version adds that \"This functionality, if implemented, shall interrupt or limit the short circuit current\".\n5. In the 2021 version, the test could be conducted with a complete vehicle, but the 2019 version does not mention this.\n6. In the 2019 version, there is an additional section \"3.2. Short Circuit\" detailing the steps for the short circuit test, which is not present in the 2021 version.\n7. In the 2021 version, the SOC is adjusted \"in accordance with Annex 9, Appendix 2\" while in the 2019 version, it is adjusted \"to a value in the upper 50% of the normal operating SOC range\"."
+    ],
+    "101": [
+        103,
+        84,
+        "The key differences between the two pages are:\n\n1. The versions of the documents are different. The first is version 100-03 from 2021 and the second is version 100-02 from 2019.\n\n2. The first document refers to testing procedures for a vehicle, while the second document refers to a tested-device.\n\n3. The test conditions are different. In the first document, the vehicle is charged and discharged continuously. In the second document, the tested-device is placed in a convective oven or climatic chamber, and the temperature is gradually increased.\n\n4. The end of the test conditions are different. In the first document, the test ends when the vehicle terminates the charge and/or discharge, the temperature of the REESS is stabilized, any failure of the acceptance criteria, or three hours elapse from the start of the charge/discharge cycles. In the second document, the test ends when the tested-device inhibits and/or limits the charge and/or discharge to prevent the temperature increase, the temperature of the tested-device is stabilized, or any failure of the acceptance criteria."
+    ],
+    "102": [
+        100,
+        82,
+        "1. The document versions are different: 2021 version vs 2019 version.\n2. The document titles are slightly different: \"UN Regulation No. 100-03\" vs \"Regulation No. 100-02\".\n3. Page content 1 provides two test procedures: \"Discharge of REESS Using Discharge Resistor (Vehicle-based Test)\" and \"Discharge by External Equipment (Component-based Test)\", while page content 2 only provides one general discharging procedure.\n4. Page content 1 provides more detailed instructions for the discharging procedure including the use of a breakout harness and a discharge resistor, while page content 2 mentions a discharge rate of at least 1/3 C rate.\n5. In page content 1, a standard charge and discharge as described in Annex 9, Appendix 1 shall be conducted after discharging, while in page content 2, a standard charge as specified in Annex 8, Appendix 1 shall be conducted after discharging. \n6. The page numbers are different: PAGE: 100 vs PAGE: 82 ANNEX 8H."
+    ],
+    "103": [
+        105,
+        80,
+        "【page_content_1】:\n- Focuses on overcurrent during charging using a breakout harness\n- Test procedure is applicable to REESS for vehicles with DC external electricity supply\n- Charging is terminated when the vehicle's overcurrent protection terminates charging or the temperature of the Tested-Device is stabilized\n- After termination, one standard cycle is conducted if not prohibited by the vehicle\n- Ends with a 1-hour observation period at ambient temperature conditions\n\n【page_content_2】:\n- Focuses on overcharge protection\n- Test is conducted under standard operating conditions with complete REESS or related subsystem(s)\n- Test may be performed with a modified tested-device\n- Test is conducted at an ambient temperature of 20 ± 10°C or higher if requested by the manufacturer\n- Charging is done with a charge current of at least 1/3C rate but not exceeding the maximum current within the normal operating range\n- Charging continues until the tested-device (automatically) interrupts or limits the charging or reaches twice of its rated charge capacity"
+    ],
+    "104": [
+        101,
+        83,
+        "1. The document version and date: 100-03 Jul/2021 vs 100-02 Jul/2019.\n2. Page number: Page 101 vs Page 83.\n3. Purpose description in page 1 adds \"even under the failure of the cooling function if applicable\".\n4. Paragraph 2 in page 2 is about \"INSTALLATIONS\" while in page 1 it talks about a test that may be conducted.\n5. Page 1 contains clause 3 and 4 about \"INSTALLATION FOR TEST USING A COMPLETE REESS\" and \"TEST PROCEDURES FOR TEST USING A COMPLETE REESS\" which are not in page 2.\n6. Page 1 allows the test to be performed with a modified Tested-Device, while page 2 requires agreement by the manufacturer and the Technical Service for this.\n7. Page 2 requires the manufacturer and Technical Service to agree on the location of the temperature sensor(s) used, which is not mentioned on page 1.\n8. In the charging and discharging process, page 2 mentions a \"steady current\" while page 1 states \"a current that will increase the temperature of cells as rapidly as possible\"."
+    ],
+    "105": [
+        104,
+        80,
+        "The key differences are:\n\n1. Document version: The first document is \"UN Regulation No. 100-03, Jul/2021, Page: 104, ANNEX 9J\" and the second is \"Regulation No. 100-02, Jul/2019, Page: 80, ANNEX 8G\".\n\n2. Purpose of the test: The first document is to test \"overcurrent protection during DC external charging\", while the second is to test \"overcharge protection\".\n\n3. Test conditions: The first document focuses on testing the overcurrent level and maximum voltage, whereas the second document tests under standard operating conditions with the complete REESS or related subsystem(s).\n\n4. Procedures: The first document details procedures for overcurrent during charging by external electricity supply, while the second document outlines procedures for charging the tested-device with a charge current of at least 1/3C rate and continues until the tested-device interrupts or limits the charging.\n\n5. Different device for testing: The first document uses a vehicle for the test, while the second one uses a REESS or its related subsystem(s)."
+    ],
+    "106": [
+        102,
+        84,
+        "The key differences between the two pages are:\n\n1. The first page is from the 2021 version of the document (Regulation No. 100-03) while the second one is from the 2019 version (Regulation No. 100-02).\n2. The page numbers are different, with the 2021 version being on page 102 and the 2019 version being on page 84.\n3. The paragraphs are numbered differently. In the 2021 version, the discussed information starts from paragraph 4.3 while in the 2019 version it starts from paragraph 3.3.\n4. The 2021 version includes a section 5 titled \"INSTALLATION FOR TEST CONDUCTED USING A COMPLETE VEHICLE,\" which is not present in the 2019 version.\n5. The 2021 version uses the term \"Tested-Device\" while the 2019 version uses the term \"tested-device\".\n6. In the 2021 version, the term \"ensure\" is used while in the 2019 version, the term \"insure\" is used.\n7. The 2021 version mentions the temperature of the chamber or oven to be gradually increased from 20 ± 10°C or at a higher temperature if requested by the manufacturer, which is not specified in the 2019 version."
+    ]
+}

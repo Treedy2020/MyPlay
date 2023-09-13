@@ -1,0 +1,4 @@
+# The ignore dirs and files
+
+./data/*
+.DS_Store
